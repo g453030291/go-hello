@@ -14,5 +14,5 @@
 `.\hello.exe`
 `go run .\hello.go`
 
-# go语言常用的api及小示例
-1.file-demo 文件读写(参考https://developer.51cto.com/article/697112.html)
+# go语言常用的api示例
+1.file-demo 文件读写(参考https://developer.51cto.com/article/697112.html,https://cloud.tencent.com/developer/article/1847870)

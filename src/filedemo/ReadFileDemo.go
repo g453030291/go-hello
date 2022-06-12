@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-var path string = "/Users/gemushen/goproject/go-hello/README.md"
+var path string = "README.md"
 
 func ReadFile() {
 	file, error := os.Open(path)
